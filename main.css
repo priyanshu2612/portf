@@ -1,0 +1,824 @@
+.mediaViewInfo {
+	--web-view-name: main;
+	--web-view-id: main;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: main;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#main {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1263px;
+	height: 2840px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: main;
+	--web-view-id: main;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Component_17___11 {
+	position: absolute;
+	width: 448px;
+	height: 582px;
+	left: 163px;
+	top: 1860px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: silverjubilee.html;
+	cursor: pointer;
+}
+#Group_234 {
+	position: absolute;
+	width: 448px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_230 {
+	position: absolute;
+	overflow: visible;
+	width: 448px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+}
+#Silver_Jubilee {
+	position: absolute;
+	left: 36px;
+	top: 38px;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(35,35,35,1);
+}
+#Projects_I_ve_worked_on {
+	position: absolute;
+	left: 438px;
+	top: 640px;
+	overflow: visible;
+	width: 393px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Get_in_touch {
+	position: absolute;
+	left: 539px;
+	top: 2507px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Component_16___5 {
+	position: absolute;
+	width: 433px;
+	height: 582.3px;
+	left: 667px;
+	top: 1860px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: reflux.html;
+	cursor: pointer;
+}
+#Group_238 {
+	position: absolute;
+	width: 433px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_230_bc {
+	position: absolute;
+	overflow: visible;
+	width: 433px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+}
+#Reflux {
+	position: absolute;
+	left: 30px;
+	top: 38px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Group_239 {
+	position: absolute;
+	width: 433px;
+	height: 310px;
+	left: 0px;
+	top: 272.3px;
+	overflow: visible;
+}
+#Blogs {
+	position: absolute;
+	left: 1855px;
+	top: 3754px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 73px;
+	color: rgba(35,35,35,1);
+}
+#Internship {
+	position: absolute;
+	left: 2112px;
+	top: 1626px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(201,200,200,1);
+}
+#Rectangle_446 {
+	opacity: 0.3;
+}
+.Rectangle_446 {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 29px;
+	left: 700px;
+	top: 2053px;
+}
+#Department_Symposium {
+	position: absolute;
+	left: 716px;
+	top: 2060px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_447 {
+	opacity: 0.3;
+}
+.Rectangle_447 {
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	height: 29px;
+	left: 195px;
+	top: 2053px;
+}
+#Institute_Project {
+	position: absolute;
+	left: 213px;
+	top: 2060px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Insititute_website {
+	position: absolute;
+	left: 202px;
+	top: 1950px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Annual_Symposium_of_Chemical_E {
+	position: absolute;
+	left: 700px;
+	top: 1950px;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Group_247 {
+	position: absolute;
+	width: 897px;
+	height: 234px;
+	left: 187px;
+	top: 2576px;
+	overflow: visible;
+}
+#I_am_entrepreneurial__iterativ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 872px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(48,48,48,1);
+}
+#Group_237 {
+	position: absolute;
+	width: 244px;
+	height: 60px;
+	left: 0px;
+	top: 45px;
+	overflow: visible;
+}
+#Drop_me_a_message___priyanshub {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(48,48,48,1);
+}
+#Grinning_Emoji_with_Smiling_Ey {
+	position: absolute;
+	width: 15px;
+	height: 14px;
+	left: 873px;
+	top: 5px;
+	overflow: visible;
+}
+#Designed_and_developed_with_lo {
+	position: absolute;
+	left: 226px;
+	top: 214px;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(38,38,38,1);
+}
+#All_Projects {
+	position: absolute;
+	left: 814px;
+	top: 194px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Group_273 {
+	position: absolute;
+	width: 120px;
+	height: 20px;
+	left: 677px;
+	top: 45px;
+	overflow: visible;
+}
+#Catch_me_up_on_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(48,48,48,1);
+}
+#by_Priyanshu_Barnwal {
+	position: absolute;
+	left: 502px;
+	top: 214px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(38,38,38,1);
+}
+#Group_248 {
+	position: absolute;
+	width: 1076px;
+	height: 640.646px;
+	left: 96px;
+	top: -71px;
+	overflow: visible;
+}
+.Rectangle_419 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 49px;
+	height: 49px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0.083px, 0px) matrix(1,0,0,1,71.9168,130) rotate(0deg);
+	transform-origin: center;
+}
+#Resume a{
+	position: absolute;
+	left: 950px;
+	top: 141px;
+	overflow: visible;
+	width: 61px;text-decoration: none;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+.Rectangle_418 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 67px;
+	left: 69px;
+	top: 125px;
+}
+#PB {
+	position: absolute;
+	left: 84px;
+	top: 142px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#I_craft_innovative__user_centr {
+	position: absolute;
+	left: 90px;
+	top: 275px;
+	overflow: visible;
+	width: 531px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Hi__I_m_Priyanshu__a_digital_p {
+	position: absolute;
+	left: 90px;
+	top: 427px;
+	overflow: visible;
+	width: 607px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Scroll_below {
+	transform: translate(0.083px, 0px) matrix(1,0,0,1,58.5063,556.2222) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#ID53192498_1894964427279882_84 {
+	position: absolute;
+	width: 182.128px;
+	height: 182.654px;
+	left: 805.872px;
+	top: 284.014px;
+	overflow: visible;
+}
+.Icon_ionic_ios_arrow_round_for {
+	overflow: visible;
+	position: absolute;
+	width: 12.594px;
+	height: 8.4px;
+	transform: translate(0.083px, 0px) matrix(1,0,0,1,94.884,630.1491) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_470 {
+	position: absolute;
+	overflow: visible;
+	width: 1076px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_behance {
+	overflow: visible;
+	position: absolute;
+	width: 23.835px;
+	height: 14.942px;
+	left: 865.638px;
+	top: 2643.876px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_linkedin_in {
+	overflow: visible;
+	position: absolute;
+	width: 17.418px;
+	height: 17.417px;
+	left: 900.586px;
+	top: 2641.399px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_facebook_f {
+	overflow: visible;
+	position: absolute;
+	width: 9.004px;
+	height: 16.811px;
+	left: 929.037px;
+	top: 2642.007px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic_ios_heart {
+	position: absolute;
+	width: 12.545px;
+	height: 12.063px;
+	left: 671.125px;
+	top: 2794.938px;
+	overflow: visible;
+}
+.Line_154 {
+	overflow: visible;
+	position: absolute;
+	width: 940px;
+	height: 2px;
+	left: 160.5px;
+	top: 2761.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_277 {
+	position: absolute;
+	width: 936px;
+	height: 334px;
+	left: 164px;
+	top: 715px;
+	overflow: visible;
+}
+#Component_15___18 {
+	position: absolute;
+	width: 936px;
+	height: 334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___7.html;
+	cursor: pointer;
+}
+.Group_230_cf {
+	position: absolute;
+	overflow: visible;
+	width: 936px;
+	height: 334px;
+	left: 0px;
+	top: 0px;
+}
+#HireXL {
+	position: absolute;
+	left: 37px;
+	top: 38px;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(35,35,35,1);
+}
+#Rectangle_445 {
+	opacity: 0.3;
+}
+.Rectangle_445 {
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 32px;
+	left: 31px;
+	top: 283px;
+}
+#Internship_ci {
+	position: absolute;
+	left: 47px;
+	top: 291px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Job_seeking_website_ {
+	position: absolute;
+	left: 38px;
+	top: 88px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Group_278 {
+	position: absolute;
+	width: 936px;
+	height: 334px;
+	left: 164px;
+	top: 1092px;
+	overflow: visible;
+}
+#Component_13___7 {
+	position: absolute;
+	width: 936px;
+	height: 334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: inspire.html;
+	cursor: pointer;
+}
+.Group_230_cm {
+	position: absolute;
+	overflow: visible;
+	width: 936px;
+	height: 334px;
+	left: 0px;
+	top: 0px;
+}
+#Inspire {
+	position: absolute;
+	left: 35px;
+	top: 39px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Rectangle_443 {
+	opacity: 0.59;
+}
+.Rectangle_443 {
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 31px;
+	left: 30px;
+	top: 288px;
+}
+#Personal_Project {
+	position: absolute;
+	left: 47px;
+	top: 296px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#Social_based_self_improvement_ {
+	position: absolute;
+	left: 38px;
+	top: 89px;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Group_276 {
+	position: absolute;
+	width: 416px;
+	height: 334px;
+	left: 504px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_14___6 {
+	position: absolute;
+	width: 936px;
+	height: 334px;
+	left: 164px;
+	top: 1463px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: technocube.html;
+	cursor: pointer;
+}
+.Rectangle_421 {
+	position: absolute;
+	overflow: visible;
+	width: 936px;
+	height: 334px;
+	left: 0px;
+	top: 0px;
+}
+#TechnoCube {
+	position: absolute;
+	left: 662px;
+	top: 38px;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(245,245,245,1);
+}
+#Rectangle_444 {
+	opacity: 0.81;
+}
+.Rectangle_444 {
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	height: 30px;
+	left: 941px;
+	top: 1748px;
+}
+#Product_development_website {
+	position: absolute;
+	left: 826px;
+	top: 1555px;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(245,245,245,1);
+}
+#Internship_cx {
+	position: absolute;
+	left: 964px;
+	top: 1755px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(167,167,167,1);
+}
+#Group_279 {
+	position: absolute;
+	width: 551px;
+	height: 322px;
+	left: 502px;
+	top: 731px;
+	overflow: visible;
+}
+#Group_279_cz {
+	position: absolute;
+	width: 554px;
+	height: 343px;
+	left: 164px;
+	top: 1467px;
+	overflow: visible;
+}
+#Group_2400 {
+	position: absolute;
+	width: 569px;
+	height: 377px;
+	left: 56px;
+	top: 2082px;
+	overflow: visible;
+}

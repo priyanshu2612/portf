@@ -1,0 +1,1486 @@
+.mediaViewInfo {
+	--web-view-name: silverjubilee;
+	--web-view-id: silverjubilee;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: silverjubilee;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#silverjubilee {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1263px;
+	height: 14078px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: silverjubilee;
+	--web-view-id: silverjubilee;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Ellipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 69.079px;
+	height: 69.079px;
+	left: 93.138px;
+	top: 1343.768px;
+}
+#Group_216 {
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: -352.013px;
+	top: 10265.813px;
+	overflow: visible;
+}
+.Path_33_ {
+	overflow: visible;
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID02__year_section {
+	position: absolute;
+	left: 917.013px;
+	top: 796.187px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(20,25,74,1);
+}
+#Group_215 {
+	position: absolute;
+	width: 1344.346px;
+	height: 737.245px;
+	left: -9.188px;
+	top: 4691.269px;
+	overflow: visible;
+}
+#ID56877101_2054187744630041_48 {
+	position: absolute;
+	width: 1344.346px;
+	height: 736.759px;
+	left: 0px;
+	top: 0.196px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	opacity: 0.32;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1343.874px;
+	height: 737.245px;
+	left: 0.291px;
+	top: 0px;
+}
+.Path_29 {
+	overflow: visible;
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: -426.477px;
+	top: 1639.588px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Web_1280___15 {
+	filter: drop-shadow(0px 0px 31px rgba(0, 0, 0, 0.329));
+	position: absolute;
+	width: 981px;
+	height: 9169px;
+	left: 169px;
+	top: 2106px;
+	overflow: visible;
+}
+.Path_31 {
+	overflow: visible;
+	position: absolute;
+	width: 237.397px;
+	height: 1px;
+	left: 759.825px;
+	top: 4267.352px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 69.079px;
+	height: 69.079px;
+	left: 135.464px;
+	top: 1343.768px;
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 69.079px;
+	height: 69.079px;
+	left: 175.394px;
+	top: 1343.768px;
+}
+.Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 69.079px;
+	height: 69.079px;
+	left: 216.921px;
+	top: 1343.768px;
+}
+#abcdefghijklmnopqrstuvwxyz {
+	position: absolute;
+	left: 218px;
+	top: 1524px;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(20,25,74,1);
+}
+#Regular {
+	position: absolute;
+	left: 218px;
+	top: 1484px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(20,25,74,1);
+}
+#abcdefghijklmnopqrstuvwxyz_bk {
+	position: absolute;
+	left: 692px;
+	top: 1524px;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(20,25,74,1);
+}
+#SemiBold {
+	position: absolute;
+	left: 692px;
+	top: 1484px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(20,25,74,1);
+}
+#Segoe_UI {
+	position: absolute;
+	left: 101px;
+	top: 1437px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(141,138,138,1);
+}
+#ID41741214_1775864965795655_26 {
+	position: absolute;
+	width: 1343.066px;
+	height: 322.003px;
+	left: -16.562px;
+	top: 6438.532px;
+	overflow: visible;
+}
+#Rectangle_156 {
+	opacity: 0.89;
+}
+.Rectangle_156 {
+	filter: drop-shadow(0px 0px 18px rgba(0, 0, 0, 0.851));
+	position: absolute;
+	overflow: visible;
+	width: 1379.54px;
+	height: 376.003px;
+	left: -8.943px;
+	top: 6438.532px;
+}
+#teacher {
+	position: absolute;
+	width: 74.186px;
+	height: 74.186px;
+	left: 453.322px;
+	top: 6585.002px;
+	overflow: visible;
+}
+#ID5810 {
+	position: absolute;
+	left: 238.607px;
+	top: 6573.713px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 47px;
+	color: rgba(255,255,255,1);
+}
+#Students {
+	position: absolute;
+	left: 246.672px;
+	top: 6636.959px;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#ID412 {
+	position: absolute;
+	left: 544.443px;
+	top: 6566.456px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49px;
+	color: rgba(255,255,255,1);
+}
+#Faculty {
+	position: absolute;
+	left: 548.475px;
+	top: 6629.701px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#ID55 {
+	position: absolute;
+	left: 750.904px;
+	top: 6576.97px;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#ID518 {
+	position: absolute;
+	left: 736.146px;
+	top: 6613.868px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#NPDF_PDF_RA {
+	position: absolute;
+	left: 797.026px;
+	top: 6597.264px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Non_Faculty {
+	position: absolute;
+	left: 797.026px;
+	top: 6629.549px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#People {
+	position: absolute;
+	left: 595.935px;
+	top: 6469.045px;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(255,255,255,1);
+}
+.Line_32 {
+	overflow: visible;
+	position: absolute;
+	width: 48.889px;
+	height: 3px;
+	left: 596.396px;
+	top: 6522.085px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_32_b {
+	overflow: visible;
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: -531px;
+	top: -331px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#JUBILEE {
+	position: absolute;
+	left: 709px;
+	top: 285px;
+	overflow: visible;
+	width: 318px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 112px;
+	color: rgba(213,213,213,1);
+}
+#OF_IIT_GUWAHATI {
+	position: absolute;
+	left: 712px;
+	top: 442px;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_157 {
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 5px;
+	left: 714px;
+	top: 510px;
+}
+.Rectangle_158 {
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 11px;
+	left: 714px;
+	top: 519px;
+}
+#SILVER {
+	position: absolute;
+	left: 709px;
+	top: 161px;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 112px;
+	color: rgba(213,213,213,1);
+}
+#IIT_Guwahati_completes_prestig {
+	position: absolute;
+	left: 100px;
+	top: 1105px;
+	overflow: visible;
+	width: 1070px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(141,138,138,1);
+}
+#I_was_responsible_for_conceptu {
+	position: absolute;
+	left: 100px;
+	top: 1225px;
+	overflow: visible;
+	width: 1057px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(141,138,138,1);
+}
+#abcdefghijklmnopqrstuvwxyz_b {
+	position: absolute;
+	left: 221px;
+	top: 1706px;
+	overflow: visible;
+	width: 218px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(20,25,74,1);
+}
+#Regular_ca {
+	position: absolute;
+	left: 221px;
+	top: 1668px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(20,25,74,1);
+}
+#Century {
+	position: absolute;
+	left: 101px;
+	top: 1611px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(141,138,138,1);
+}
+#ID01__homepage {
+	position: absolute;
+	left: 535px;
+	top: 1948px;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(198,198,198,1);
+}
+#Web_1280___6 {
+	filter: drop-shadow(0px 0px 31px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 981.697px;
+	height: 472.822px;
+	left: 168.553px;
+	top: 11152.551px;
+	overflow: visible;
+}
+#Group_217 {
+	position: absolute;
+	width: 115px;
+	height: 30px;
+	left: 574px;
+	top: 11856px;
+	overflow: visible;
+}
+#ID03__Event_page {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(20,25,74,1);
+}
+#Web_1280___24 {
+	filter: drop-shadow(0px 0px 31px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 982px;
+	height: 1661px;
+	left: 156px;
+	top: 11945px;
+	overflow: visible;
+}
+#Group_218 {
+	position: absolute;
+	width: 226px;
+	height: 78px;
+	left: 534px;
+	top: 13867px;
+	overflow: visible;
+}
+#thankyou_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(20,25,74,1);
+}
+.Rectangle_159 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 159px;
+	left: 49px;
+	top: 8419px;
+}
+.Path_34 {
+	overflow: visible;
+	position: absolute;
+	width: 303.885px;
+	height: 1px;
+	left: 321.239px;
+	top: 8484.822px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_See_more__expands_the__timeli {
+	position: absolute;
+	left: 88px;
+	top: 8448px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+.Rectangle_160 {
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 24px;
+	left: 221px;
+	top: 9016px;
+}
+.Rectangle_161 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 159px;
+	left: 49px;
+	top: 8984px;
+}
+#_Previous_meetups__opens__up_a {
+	position: absolute;
+	left: 78px;
+	top: 9013px;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+.Rectangle_173 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 160px;
+	left: 10px;
+	top: 5071px;
+}
+.Path_36 {
+	overflow: visible;
+	position: absolute;
+	width: 79.929px;
+	height: 1px;
+	left: 282.299px;
+	top: 5137.694px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Each_card_yields_to_a_differen {
+	position: absolute;
+	left: 30px;
+	top: 5111px;
+	overflow: visible;
+	width: 240px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+#UI_UX {
+	position: absolute;
+	left: 709px;
+	top: 134px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(213,213,213,1);
+}
+#ELEGANT {
+	position: absolute;
+	left: 286px;
+	top: 13736px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+#PASSIONATE {
+	position: absolute;
+	left: 496px;
+	top: 13736px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+#CLEAN {
+	position: absolute;
+	left: 746px;
+	top: 13736px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 32.108px;
+	left: 454.445px;
+	top: 13737.432px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 32.108px;
+	left: 705.232px;
+	top: 13737.432px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_94 {
+	position: absolute;
+	overflow: visible;
+	width: 272px;
+	height: 132px;
+	left: 997px;
+	top: 4208px;
+}
+#Clicking_on__Centre__will_show {
+	position: absolute;
+	left: 1015px;
+	top: 4238px;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+#graduate_student_avatar {
+	position: absolute;
+	width: 67.491px;
+	height: 67.491px;
+	left: 985.973px;
+	top: 6580.854px;
+	overflow: visible;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 151px;
+	height: 124px;
+	left: 945px;
+	top: 108px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_1 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_c {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_2 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_da {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_3 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_db {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_4 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_dc {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_5 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_dd {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_6 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_df {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_7 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_dh {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_8 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_dj {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_9 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_dl {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_10 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_dn {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_11 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_dp {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_12 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_dr {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_13 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_dt {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_14 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_dv {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_15 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_dx {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_16 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_dz {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_17 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_d {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_18 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_ea {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_19 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_eb {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_20 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_ec {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_21 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_ed {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_22 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_ee {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_23 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_ef {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_24 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_eg {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_25 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_eh {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_26 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_ej {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_27 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_el {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_28 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_en {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_29 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_ep {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_174 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 160px;
+	left: 998px;
+	top: 7111px;
+}
+.Path_37 {
+	overflow: visible;
+	position: absolute;
+	width: 79.929px;
+	height: 1px;
+	left: 918.318px;
+	top: 7177.602px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Anthem_video_is_played_here_ {
+	position: absolute;
+	left: 1020px;
+	top: 7164px;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+#FLUENT {
+	position: absolute;
+	left: 914px;
+	top: 13736px;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 28px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 32.108px;
+	left: 873.268px;
+	top: 13737.432px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#presentation {
+	position: absolute;
+	width: 72.317px;
+	height: 72.317px;
+	left: 149.015px;
+	top: 6586.755px;
+	overflow: visible;
+}
+#Concept {
+	position: absolute;
+	left: 95px;
+	top: 1051px;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+#My_Role {
+	position: absolute;
+	left: 95px;
+	top: 1171px;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+#Colors_and_Typography {
+	position: absolute;
+	left: 95px;
+	top: 1291px;
+	overflow: visible;
+	width: 396px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+#ABCDEFGHIJKLMNOPQRSTUVWXYZ_ez {
+	position: absolute;
+	left: 218px;
+	top: 1546px;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(20,25,74,1);
+}
+#Aa {
+	position: absolute;
+	left: 101px;
+	top: 1458px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 94px;
+	color: rgba(20,25,74,1);
+}
+#ABCDEFGHIJKLMNOPQRSTUVWXYZ_e {
+	position: absolute;
+	left: 692px;
+	top: 1546px;
+	overflow: visible;
+	width: 264px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(20,25,74,1);
+}
+#ABCDEFGHIJKLMNOPQRSTUVWXYZ_fa {
+	position: absolute;
+	left: 221px;
+	top: 1727px;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(20,25,74,1);
+}
+#Aa_e {
+	position: absolute;
+	left: 571px;
+	top: 1458px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 94px;
+	color: rgba(20,25,74,1);
+}
+#Aa_fa {
+	position: absolute;
+	left: 100px;
+	top: 1652px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 94px;
+	color: rgba(20,25,74,1);
+}
+#Group_240 {
+	filter: drop-shadow(-8px -3px 18px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 949px;
+	height: 649px;
+	left: -265px;
+	top: 12px;
+	overflow: visible;
+}
