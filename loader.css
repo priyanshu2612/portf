@@ -15,10 +15,13 @@
 	box-sizing: border-box;
 	border: none;
 }
-#loader {
+
+#lp{
+
 	position: absolute;
 	transform: translateX(-50%) translateY(-50%);
-	
+	top:50%;
+	left:50%;
 	width: 1260px;
 	height: 616px;
 	background-color: rgba(255,255,255,1);
@@ -29,7 +32,29 @@
 	--web-center-horizontally: true;
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
+	animation-name: examplex;
+    animation-duration: .4s;
+    animation-fill-mode: forwards; animation-delay: 2.7s;
 }
+@keyframes examplex {
+  0%   {opacity: 1;}
+  100% {opacity: 0;}
+}
+#loader {
+	position: absolute;
+	
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: loader;
+	--web-view-id: loader;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+
 #Digital_Product_Designer {
 	position: absolute;
 	left: 524px;
@@ -38,7 +63,7 @@
 	width: 332px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Muli;
+	font-family: Muli;z-index: -1;
 	font-style: normal;
 	font-weight: lighter;
 	font-size: 30px;
@@ -64,8 +89,11 @@
 	width: 64px;
 	height: 64px;
 	left: 100%;
-	top: 100%;animation-name: example1;
-    animation-duration: .2s;animation-fill-mode: forwards;animation-delay: 1.5s;
+	top: 100%;
+	animation-name: example1;
+	animation-duration: .2s;
+	animation-fill-mode: forwards;
+	animation-delay: 1.5s;
 }
 @keyframes example1 {
   0%   {left:433px; top:280px;}
@@ -77,8 +105,8 @@
 	overflow: visible;
 	width: 82px;
 	height: 82px;
-	left: 433px;
-	top: 280px;
+	left: 100%;
+	top: 100%;
 	animation-name: example2;
     animation-duration: .7s;animation-fill-mode: forwards;animation-delay: 0.8s;
 }
@@ -93,26 +121,31 @@
 	overflow: visible;
 	width: 100%;
 	height: 100%;
-	left: 100%;overflow: hidden;
+	left: 100%;
 	top: 100%;
 	animation-name: exampleblue;
-    animation-duration: 1.1s;animation-fill-mode: forwards;animation-delay: 2.9s;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+	animation-delay: 2.9s;
 }
 @keyframes exampleblue {
   0%   { left:0px; top:100%;}
-  100% { left:0px; top:-150%;}
+  100% { left:0px; top:-1500%;}
 }
 
 
 .Rectangle_yellow {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
-	overflow: hidden;
+	overflow: visible;
 	width: 100%;
 	height: 100%;
 	left: 100%;
-	top: 100%;animation-name: exampleblue;
-    animation-duration: 1.1s;animation-fill-mode: forwards;animation-delay: 3.1s;
+	top: 100%;
+	animation-name: exampleblue;
+	animation-duration: 5s;
+	animation-fill-mode: forwards;
+	animation-delay: 3.1s;
 }
 #PB {
 	position: absolute;
