@@ -30,20 +30,13 @@
 	--web-center-horizontally: true;
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
+	animation-name: examplex;
+    animation-duration: .7s;
+    animation-fill-mode: forwards; 
 }
-@keyframes  {
-
-
-}
-@keyframes fadein {
-
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
-
+@keyframes examplex {
+  0%   {opacity: 0;}
+  100% {opacity: 1;}
 }
 #Component_17___11 {
 	position: absolute;
