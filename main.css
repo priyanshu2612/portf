@@ -31,7 +31,7 @@
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
 	animation-name: examplex;
-    animation-duration: .7s;
+    animation-duration: .7s;animation-timing-function: ease-in;
     animation-fill-mode: forwards; 
 }
 @keyframes examplex {
