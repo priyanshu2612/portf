@@ -1,0 +1,297 @@
+body{
+	margin: 0;
+	border: 0;
+
+}
+
+#logo {
+  width:35px;
+  left: 19.5%;
+  top: 50px;
+  position: absolute;
+ }
+ #resume a{
+ 	text-decoration: none;
+ 	position: absolute;
+ 	overflow: visible;
+	white-space: wrap;
+	right: 19.5%;
+	top: 70px;
+	text-align: right;
+	font-family: Muli;
+	padding: 30px 
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	
+	
+
+}
+
+ #about a{
+ 	text-decoration: none;
+ 	position: absolute;
+ 	overflow: visible;
+	white-space: wrap;
+	right: 28%;
+	top: 70px;
+	text-align: right;
+	font-family: Muli;
+	padding: 30px 
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	
+	
+
+}
+.underline {
+  display: inline;
+  position: relative;
+  overflow: hidden;
+}
+.underline:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 100%;
+  bottom: -5px;
+  background: #000;
+  height: 2px;
+  transition-property: left right;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-out;
+}
+.underline:hover:after,
+.underline:focus:after,
+.underline:active:after {
+  right: 0;
+}
+
+	
+.horizontal-flex-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  margin: 5px;
+}
+#imgg {
+  padding: 5px;
+  width: 40px;
+}
+#Catchy {
+	
+	overflow: visible;
+	margin-top: 200px;
+	white-space: wrap;
+	text-align: center;
+	font-family: Muli;
+	margin-right: auto;
+	margin-left: auto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	max-width: 60%;
+	color: rgba(35,35,35,1);
+}
+#designed{
+	overflow: visible;
+	padding:20px;
+	white-space: wrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#line {
+  display: block;
+  width: 60%;
+  height: 1px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  
+ }  
+#about1 {
+	overflow: visible;
+    padding-bottom: 20px;
+	white-space: wrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	max-width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	color: rgba(35,35,35,1);
+
+}
+#cover {
+
+  display: block;
+  width: 60%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  
+}
+#Get_in_touch{
+	
+	overflow: visible;
+	white-space: wrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 20px; 
+	color: rgba(35,35,35,1);
+}
+#I_am_entrepreneurial__iterativ{
+	overflow: visible;
+	padding:20px;
+	white-space: wrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	color: rgba(35,35,35,1);
+}
+
+
+@media (max-width: 450px) {
+
+
+#logo {
+  width:34px;
+  left: 9%;
+  top: 65px;
+  position: absolute;
+ }
+ #resume a{
+ 	position: absolute;
+ 	overflow: visible;
+	white-space: wrap;
+	right: 8%;
+	top: 70px;
+	text-align: right;
+	font-family: Muli;
+	padding: 30px 
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	
+	
+
+}
+
+
+#Catchy{	
+	overflow: visible;
+    padding-bottom: 10px;
+	white-space: wrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	max-width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	color: rgba(35,35,35,1);
+}
+
+
+#about1 {
+	overflow: visible;
+    padding-bottom: 20px;
+	white-space: wrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	max-width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	color: rgba(35,35,35,1);
+
+}
+#I_am_entrepreneurial__iterativ {
+	overflow: visible;
+	white-space: wrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	color: rgba(35,35,35,1);
+
+}#Get_in_touch{
+	
+	overflow: visible;
+	white-space: wrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	margin-top: 20px; 
+	color: rgba(35,35,35,1);
+}
+#cover {
+
+  display: block;
+  width:80%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  
+}
+
+#line {
+  display: block;
+  width: 100%;
+  height: 1px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  
+ }
+ #about a{
+ 	text-decoration: none;
+ 	position: absolute;
+ 	overflow: visible;
+	white-space: wrap;
+	right: 27%;
+	top: 70px;
+	text-align: right;
+	font-family: Muli;
+	padding: 30px 
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	
+	
+
+}
+}
