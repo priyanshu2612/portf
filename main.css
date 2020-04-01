@@ -1,7 +1,12 @@
 body{
 	margin: 0;
-	border: 0;
-
+	border: 0;animation-name: examplex;
+    animation-duration: .7s;animation-timing-function: ease-in;
+    animation-fill-mode: forwards; 
+}
+@keyframes examplex {
+  0%   {opacity: 0;}
+  100% {opacity: 1;}
 }
 
 #logo {
