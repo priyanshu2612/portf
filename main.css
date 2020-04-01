@@ -6,7 +6,7 @@ body{
 
 #logo {
   width:50px;
-  left: 19%;
+  left: 19.5%;
   top: 50px;
   position: absolute;
  }
@@ -15,7 +15,7 @@ body{
  	position: absolute;
  	overflow: visible;
 	white-space: wrap;
-	right: 19%;
+	right: 19.5%;
 	top: 70px;
 	text-align: right;
 	font-family: Muli;
